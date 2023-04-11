@@ -1,9 +1,13 @@
 import React from "react";
+import "./style.css";
 
 function Footer () {
-    (
-        <h1>Footer placeholder</h1>
-    )
+    return (
+        <footer className="footer">
+      <div className="footer-copyright text-center py-3">© 2023 Copyright: Proust App
+      </div>
+        </footer>
+      );
 }
 
 export default Footer;

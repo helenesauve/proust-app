@@ -1,10 +1,11 @@
 import './App.css';
 import React from "react";
 import { HashRouter as Router, Route, Routes } from 'react-router-dom';
-import Home from './pages/Home';
-import Footer from "./components/Footer"
-import Navbar from "./components/Navbar"
-import Wrapper from "./components/Wrapper"
+import Home from "./components/Pages/Home";
+import Trotter from "./components/Pages/Trotter";
+import Footer from "./components/Footer";
+import Navbar from "./components/Navbar";
+import Wrapper from './components/Wrapper';
 
 function App() {
   return (
@@ -14,11 +15,9 @@ function App() {
         <Wrapper>
           <Routes>
             <Route path="/" element={<Home/>} />
-            {/* <Route path="/projects" element={<ProjectList/>} />
-            <Route path="/contact" element={<Contact/>} />
-            <Route path="/Resume" element={<Resume/>} /> */}
+            <Route path="/Trotter" element={<Trotter/>} /> 
           </Routes>
-        </Wrapper>
+          </Wrapper>
         <Footer />
       </div>
     </Router>

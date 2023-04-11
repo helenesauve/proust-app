@@ -1,0 +1,28 @@
+.footer {
+    background-color: #F8F8F8;
+    border-top : 1px solid #E7E7E7;
+    text-align : center;
+    padding: 20px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    height: 60px;
+    width: 100%;
+} 
+  /* .footer > .bottom {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: black;
+    padding: 8px;
+    font-weight: 600;
+  }
+  
+  .footer > .bottom > img {
+    width: 20px;
+    position: relative;
+    top: 3px;
+    left: 2px;
+  }
+   */
