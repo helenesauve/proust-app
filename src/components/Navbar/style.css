@@ -23,9 +23,19 @@
     transition: all 0.3s ease-in-out;
   }
   
+  .navbar-link:hover {
+    color: grey;
+  }
+  
+  .navbar-link.active {
+    color: grey;
+    border-bottom: 3px solid grey;
+  }
+
   .pageTitle {
     font-family: 'Pacifico', cursive;
     text-align: center;
+    text-decoration: none;
     color: black;
     padding: 20px;
     font-size: 40px;
