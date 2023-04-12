@@ -6,7 +6,7 @@ function Navbar () {
     return (
         <nav className="navbar">
       <NavLink to="/" className="navbar-logo">
-      <h1 className="pageTitle">Searching Proust</h1>
+      <h1 className="pageTitle">In Search of Proust</h1>
       </NavLink>
       <ul className="navbar-menu">
         <li className="navbar-item">

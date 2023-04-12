@@ -1,6 +1,7 @@
 import React from "react";
 import "./style.css";
-import moustache from "./moustache.png";
+import moustache from "./moustache-small.png";
+
 
 function Hero() {
     return (
