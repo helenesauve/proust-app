@@ -11,7 +11,7 @@ This project is being built using React.js and I am using the skills acquired du
 
 ## Deployment
 
-I have not yet decided which web host is best suited for this app but will continue to update this README when I reach that point.
+I have not yet decided which web host service is best suited for this app but will continue to update this README when I reach that point.
 
 ## Contributing
 
