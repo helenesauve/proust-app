@@ -2,10 +2,11 @@ import './App.css';
 import React from "react";
 import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 import Home from "./components/Pages/Home";
-import Trotter from "./components/Pages/Trotter";
 import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
 import Wrapper from './components/Wrapper';
+import Trotter from "../src/components/Pages/Trotter";
+
 
 function App() {
   return (

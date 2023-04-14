@@ -1,0 +1,14 @@
+.trotter {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+#map {
+    height: 100vh;
+}
+
+/* sizing of container */
+.leaflet-container {
+    height: 100vh;
+}
+
