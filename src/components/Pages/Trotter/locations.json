@@ -10,6 +10,46 @@
     {
         "geocode": [48.8709476111008, 2.322475093255008],
         "popUp":
-        "In 1873, the Proust family move into immeuble boulevard Malesherbes, dans lequel ils resteront jusqu’en 1900."
+        "In 1873, the Proust family moves into immeuble boulevard Malesherbes, dans lequel ils resteront jusqu’en 1900."
+    },
+    {
+        "geocode": [48.87485435035626, 2.327681593252805],
+        "popUp":
+        "Marcel studies at the Lycée Condorcet from 1882 to 1887."
+    },
+    {
+        "geocode": [47.91251822776866, 1.9185720932545962],
+        "popUp":
+        "Caserne Coligny, where Marcel does his military service between 1889 and 1890."
+    },
+    {
+        "geocode": [48.30152113984482, 1.24454927364485],
+        "popUp":
+        "Every year, at the beginning of the Easter holidays, the Proust family goes to Illiers, a fictionary town based on Illiers, where the dad's siter lives. The town Illiers changes name in 1971 as a tribute to Marcel Proust"
+    },
+    {
+        "geocode": [49.29526171453776, -0.11553112965927426],
+        "popUp":
+        "Cabourg or Balbec in the books, is a seaside town where Proust goes many times, specifically at the Grand-Hôtel, and meets Albertine"
+    },
+    {
+        "geocode": [48.8763085963555, 2.307857635581911],
+        "popUp":
+        "The Proust family moves into a flat 45 rue de Courcelles in 1990 to better suit the Doctor's high social status"
+    },
+    {
+        "geocode": [48.80729685204389, 2.1239183644193815],
+        "popUp":
+        "Following the brutal deaths of his father in 1903 and his mother in 1905, Proust was in poor health, and sought refuge at at the Hôtel des Reservoirs in Versailles where he stays for 6 months in 1906"
+    },
+    {
+        "geocode": [48.87281060597698, 2.338883364419985],
+        "popUp":
+        "Proust moves into 102 du Boulevard Haussmann in 1906 following his stay at Hôtel des Reservoirs and stayed there until 1919. It is in this flat that he wrote most of La Recherche."
+    },
+    {
+        "geocode": [48.87371866007845, 2.2828880932534616],
+        "popUp":
+        "Proust moves into a flat 8 bis Rue Laurent Pichat in 1919 but found there many inconvenients, such as the proximity to trees, and therefore pollen."
     }
   ]
