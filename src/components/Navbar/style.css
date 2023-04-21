@@ -10,6 +10,16 @@
     margin: 0;
     padding: 0;
   }
+
+  .brand-name {
+    text-decoration: none;
+    color: black;
+    font-size: 1.3rem;
+    margin-left: 1rem;
+  }
+  .navigation-menu {
+    margin-left: auto;
+  }
   
   .navbar-item {
     margin: 0 20px;
@@ -41,3 +51,17 @@
     font-size: 40px;
 }
   
+@media only screen and (max-width: 600px) {
+
+  .pageTitle {
+    text-align: center !important;
+    align-items: center !important;
+    top: 50%;
+    left: 50%;
+    margin: 0;
+  }
+  .navbar-item {
+    font-size: 10px;
+  }
+  
+}

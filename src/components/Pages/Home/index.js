@@ -12,7 +12,7 @@ function Home () {
         <div className="home">
     <Hero />
     <Link to="/Trotter">
-    <Button text="Proust-Trotter" />
+    <Button text="Proust's Way" />
     </Link>
     <br />
     <Button text="Proust-In-Loo"/>
