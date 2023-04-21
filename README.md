@@ -8,8 +8,8 @@ Characters and their intricate identities are also a source of fascination, whic
 I am also building a 'Proust in Loo' function which allows you to get a random page from the book when looking for something quick to read (hence the name)
 This project is being built using React.js and I am using the skills acquired during the 16-week edX Skills bootcamp in Front-End Web Development that I just completed.
 
-![Searching Proust homepage](proust-homepage.png)
-![Searching Proust map](proust-map.png)
+![Searching Proust homepage](proust-homepage-small.jpg)
+![Searching Proust map](proust-map-small.jpg)
 
 ## Deployment
 
