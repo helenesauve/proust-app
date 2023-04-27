@@ -17,6 +17,7 @@
     font-size: 1.3rem;
     margin-left: 1rem;
   }
+  
   .navigation-menu {
     margin-left: auto;
   }
@@ -45,7 +46,7 @@
   .pageTitle {
     font-family: 'Oswald', sans-serif;
     text-align: center;
-    text-decoration: none;
+    text-decoration: none !important;
     color: black;
     padding: 20px;
     font-size: 40px;

@@ -6,17 +6,17 @@ function Navbar () {
     return (
         <nav className="navbar">
       <NavLink to="/" className="navbar-logo">
-      <h1 className="pageTitle">In Search of Proust</h1>
+      <h1 className="pageTitle">Searching Proust</h1>
       </NavLink>
       <ul className="navbar-menu">
-        <li className="navbar-item">
+      <li className="navbar-item">
           <NavLink to="/" className="navbar-link">Home</NavLink>
         </li>
         <li className="navbar-item">
-          <NavLink to="/directory" className="navbar-link">Contact</NavLink>
+          <NavLink to="/about" className="navbar-link">About</NavLink>
         </li>
         <li className="navbar-item">
-          <NavLink to="/locator" className="navbar-link">Github</NavLink>
+          <NavLink to="https://github.com/helenesauve/searching-proust" className="navbar-link" target="_blank">Github</NavLink>
         </li>
       </ul>
     </nav>
