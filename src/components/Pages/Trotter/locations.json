@@ -1,55 +1,65 @@
 [
     {
       "geocode": [48.860764, 2.393646],
-      "popUp": "Père Lachaise Cemetery, where Proust is buried"
+      "popUp": "Père Lachaise Cemetery, where Proust was buried in 1922."
     },
     {
         "geocode": [48.87559171099804, 2.318465364416511],
-        "popUp": "This is where Proust was born on 10 July 1871"
+        "popUp": "Proust was born 96 rue La Fontaine on 10 July 1871"
     },
     {
         "geocode": [48.8709476111008, 2.322475093255008],
         "popUp":
-        "In 1873, the Proust family moves into immeuble boulevard Malesherbes, dans lequel ils resteront jusqu’en 1900."
+        "In 1873, the Proust family moved into a flat boulevard Malesherbes and stayed there until 1900."
     },
     {
         "geocode": [48.87485435035626, 2.327681593252805],
         "popUp":
-        "Marcel studies at the Lycée Condorcet from 1882 to 1887."
+        "Marcel studied at the Lycée Condorcet from 1882 to 1887."
     },
     {
         "geocode": [47.91251822776866, 1.9185720932545962],
         "popUp":
-        "Caserne Coligny, where Marcel does his military service between 1889 and 1890."
+        "Caserne Coligny, where Marcel did military service between 1889 and 1890."
     },
     {
         "geocode": [48.30152113984482, 1.24454927364485],
         "popUp":
-        "Every year, at the beginning of the Easter holidays, the Proust family goes to Illiers, a fictionary town based on Illiers, where the dad's siter lives. The town Illiers changes name in 1971 as a tribute to Marcel Proust"
+        "Every year, at the beginning of the Easter holidays, the Proust family went to Combray, a fictionary town based on Illiers, a small town in Eure-et-Loir. The town Illiers changed its name in 1971 as a tribute to Marcel Proust"
     },
     {
         "geocode": [49.29526171453776, -0.11553112965927426],
         "popUp":
-        "Cabourg or Balbec in the books, is a seaside town where Proust goes many times, specifically at the Grand-Hôtel, and meets Albertine"
+        "Cabourg or 'Balbec' in the books, is a seaside town where Proust spent many holidays, specifically at the Grand-Hôtel."
     },
     {
         "geocode": [48.8763085963555, 2.307857635581911],
         "popUp":
-        "The Proust family moves into a flat 45 rue de Courcelles in 1990 to better suit the Doctor's high social status"
+        "The Proust family moves into a flat 45 rue de Courcelles in 1890 to better suit the father's high social status."
     },
     {
         "geocode": [48.80729685204389, 2.1239183644193815],
         "popUp":
-        "Following the brutal deaths of his father in 1903 and his mother in 1905, Proust was in poor health, and sought refuge at at the Hôtel des Reservoirs in Versailles where he stays for 6 months in 1906"
+        "Following the brutal deaths of his father in 1903 and his mother in 1905, Proust was in poor health and sought refuge at at the Hôtel des Reservoirs in Versailles where he stayed for 6 months in 1906"
     },
     {
         "geocode": [48.87281060597698, 2.338883364419985],
         "popUp":
-        "Proust moves into 102 du Boulevard Haussmann in 1906 following his stay at Hôtel des Reservoirs and stayed there until 1919. It is in this flat that he wrote most of La Recherche."
+        "Proust moved into 102 Boulevard Haussmann in 1906 following his stay at Hôtel des Reservoirs and stayed there until 1919. It is in this flat that he wrote most of 'In Search of Lost Time''."
     },
     {
         "geocode": [48.87371866007845, 2.2828880932534616],
         "popUp":
-        "Proust moves into a flat 8 bis Rue Laurent Pichat in 1919 but found there many inconvenients, such as the proximity to trees, and therefore pollen."
+        "Proust moved into a flat 8 bis Rue Laurent Pichat in 1919 but found there were many inconvenients, such as the proximity to trees, and therefore pollen to which he was allergic."
+    },
+    {
+        "geocode": [48.86564391351649, 2.249652701357462],
+        "popUp":
+        "Allée des Acacias in the Bois de Boulogne, where the narrator regularly takes his governess Françoise as Odette Swann is said to be found."
+    },
+    {
+        "geocode": [45.48740339341603, 12.27434353100827],
+        "popUp":
+        "In 'The Fugitive', when Albertine has disappeared, the narrator goes on a trip with his mum to Venice."
     }
   ]
