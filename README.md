@@ -13,7 +13,7 @@ This project is being built using React.js and I am using the skills acquired du
 
 ## Deployment
 
-I have not yet decided which web host service is best suited for this app but will continue to update this README when I reach that point.
+The app is deployed on Netlify at his address: [Click here](https://searching-proust.netlify.app/)
 
 ## Contributing
 
